@@ -1,0 +1,18 @@
+/* @import url('https://fonts.googleapis.com/css2?family=MuseoModerno&dispaly=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno display=swap');
+
+
+{
+font-family: 'MuseoModerno', cursive;
+}
+ */
+
+ .container{
+    margin: 5px 80px;
+    display: flex;
+ }
+
+ .table{
+    margin: 0 50px;
+ }
